@@ -1,3 +1,4 @@
 const login = (user)=>{
-    return true
+    if(user.username === "reza") return true
+    else return false
 }
