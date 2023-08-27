@@ -7,3 +7,5 @@ const addCourse = (course) => {
 const addblog = (blog) => {
   return blog;
 };
+
+const removeBlog = (blogId) => blogId;
