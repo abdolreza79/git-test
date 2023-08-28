@@ -3,4 +3,4 @@ const login = (user)=>{
     else return false
 }
 
-const register = (user) => return user
+const register = (user) => user
