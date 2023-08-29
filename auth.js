@@ -1,5 +1,5 @@
 const login = (user)=>{
-    if(user.username === "reza") return true
+    if(user.username === "reza" || user.username === "ehsan") return true
     else return false
 }
 
